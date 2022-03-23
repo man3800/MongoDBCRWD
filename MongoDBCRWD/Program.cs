@@ -49,9 +49,6 @@ namespace MongoDBCRWD
                 MongoDB Enterprise > db.people.find()
                 { "_id" : ObjectId("62398f98b83e571add593289"), "name" : "길용이 잘하고 있나?", "age" : 14 }
                 MongoDB Enterprise >
-
-
-ㅎ로롤호ㅗ로
              */
         }
     }
